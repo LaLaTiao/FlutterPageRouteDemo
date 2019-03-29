@@ -1,16 +1,11 @@
-# flutter_demo03
+# Flutter Page Route Demo
 
-Router
+>感谢技术胖的Flutter相关教程.
+>https://jspang.com/post/flutterDemo.html
 
-## Getting Started
+- [Fade: 渐隐渐出](http://blogimages.jspang.com/FlutterDemo03.gif)
+- [Scale: 缩放](http://blogimages.jspang.com/FlutterDemo04.gif)
+- [Rotate: 旋转缩放](http://blogimages.jspang.com/FlutterDemo05.gif)
+- [Slide: 侧滑](http://blogimages.jspang.com/FlutterDemo06.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
